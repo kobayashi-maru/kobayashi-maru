@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kobayashi-maru
+- 👋 Hi, I’m Travas Young @kobayashi-maru
 - 👀 I’m interested in open source solutions to visually displaying ASL linguistics
 - 🌱 I’m currently learning how to use tiddlywiki to send CSS and Javascript used to format linguitic interlinear gloss with ASL videos to in one file
 - 💞️ I’m looking to collaborate on video annotation approaches using open source solutions
